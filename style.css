@@ -28,3 +28,17 @@ body {
 #soundcloud {
   
 }
+
+footer {
+  background-color: #cdb380;
+  position: absolute;
+  width: 100%;
+  height: 60px; /* footer height */
+}
+
+footer p {
+  font-family: Century Gothic, sans-serif;
+  color: #036564;
+}
+
+
