@@ -3,11 +3,13 @@ body {
 }
 
 .header {
-   margin: 0 auto;
+   margin: 0 auto
+   min-width: 194px;
+   min-height: 150px;
 }
 
 .header img {
-  position: relative;
+  display: block;
 }
 
 #instagram {
