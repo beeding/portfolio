@@ -3,9 +3,7 @@ body {
 }
 
 .header img {
-  float: center;
-  height: 300px;
-  width: 400px;
+  margin: 0 auto;
 }
 
 
