@@ -3,10 +3,11 @@ body {
 }
 
 .header {
-   
+  text-align: center;
 }
 
 .header img {
+  display: inline-block;
  
 }
 
