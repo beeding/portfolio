@@ -25,6 +25,7 @@ body {
 #instgram {
   width: 284px;
   height: 234px;
+  transform: translateX(30px);
 }
 
 #github {
@@ -32,10 +33,11 @@ body {
 }
 
 #wordpress {
-  transform: translateX(100px);
+  transform: translateX(120px);
 }
 
 #soundcloud {
+  transform: translateX(-30px);
 }
 
 footer {
