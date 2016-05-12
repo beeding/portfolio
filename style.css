@@ -3,12 +3,7 @@ body {
 }
 
 .header {
-  margin:0 auto;
-  width: 800px;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
 }
-
-.banner img {
-  position: relative;
-}
-
-
