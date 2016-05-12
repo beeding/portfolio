@@ -31,10 +31,10 @@ body {
 
 footer {
   background-color: #cdb380;
-  position: relative;
-  margin-top: -180px;
+  position: fixed;
+  bottom: 0;
   height: 90px; /* footer height */
-  clear: both;
+  left: 0;
 }
 
 footer p {
