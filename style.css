@@ -28,6 +28,7 @@ body {
 }
 
 #github {
+  transform: translateX(60px);
 }
 
 #wordpress {
