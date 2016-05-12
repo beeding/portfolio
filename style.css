@@ -30,11 +30,10 @@ body {
 }
 
 footer {
-  background-color: #cdb380;
-  position: fixed;
+  height: 90px;
+  width: 100%;
   bottom: 0;
-  height: 90px; /* footer height */
-  left: 0;
+  position: fixed;
 }
 
 footer p {
