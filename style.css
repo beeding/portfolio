@@ -20,20 +20,29 @@ body {
 #instgram {
   width: 284px;
   height: 234px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 #github {
   width: 322px;
   height: 176px;
-  padding-right: 200px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 #wordpress {
-  
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 #soundcloud {
-  
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 footer {
