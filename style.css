@@ -40,18 +40,5 @@ body {
   transform: translateX(-30px);
 }
 
-footer {
-  height: 90px;
-  width: 100%;
-  bottom: 0;
-  position: fixed;
-  background-color: #cdb380;
-}
-
-footer p {
-  font-family: Century Gothic, sans-serif;
-  color: #036564;
-  margin: 0 auto;
-}
 
 
