@@ -31,9 +31,10 @@ body {
 
 footer {
   background-color: #cdb380;
-  position: absolute;
-  width: 100%;
+  position: relative;
+  margin-top: -180px;
   height: 90px; /* footer height */
+  clear: both;
 }
 
 footer p {
