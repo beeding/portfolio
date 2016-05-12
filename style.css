@@ -28,10 +28,11 @@ body {
 }
 
 #github {
-  transform: translateX(120px);
+  transform: translateX(200px);
 }
 
 #wordpress {
+  transform: translateX(60px);
 }
 
 #soundcloud {
