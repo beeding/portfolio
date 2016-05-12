@@ -11,6 +11,11 @@ body {
  
 }
 
+.href {
+  text-align: center;
+  display: inline-block;
+}
+
 #instgram {
   width: 284px;
   height: 234px;
