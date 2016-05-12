@@ -15,15 +15,18 @@ body {
 }
 
 #instagram {
-  
+  width: 189px;
+  height: 156px;
 }
 
 #github {
-  
+  width: 322px;
+  height: 176px;
 }
 
 #wordpress {
-  
+  width: 220px;
+  height: 200px;
 }
 
 #soundcloud {
