@@ -8,30 +8,32 @@ body {
 
 .header img {
   display: inline-block;
- 
 }
 
-.href {
-  
+.row1 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.row2 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
 
 #instgram {
   width: 284px;
   height: 234px;
-
 }
 
 #github {
- left: 300px;
-
 }
 
 #wordpress {
-
 }
 
 #soundcloud {
-
 }
 
 footer {
