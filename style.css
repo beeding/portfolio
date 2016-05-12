@@ -12,7 +12,12 @@ body {
 }
 
 .href {
-  margin:0 auto;
+  position: absolute;
+  width: 300px;
+  z-index: 15;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
 }
 
 #instgram {
