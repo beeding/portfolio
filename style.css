@@ -25,7 +25,7 @@ body {
 #github {
   width: 322px;
   height: 176px;
-  padding-right: 60px;
+  right: 60px;
 }
 
 #wordpress {
